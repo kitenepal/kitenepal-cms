@@ -1,0 +1,12 @@
+/* line 1, ../sass/main.scss */
+nav {
+  background-color: #303f63;
+}
+/* line 3, ../sass/main.scss */
+nav a {
+  color: white;
+}
+/* line 6, ../sass/main.scss */
+nav a:hover {
+  color: skyblue;
+}

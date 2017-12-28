@@ -1,6 +1,6 @@
 /* Import fonts */
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
-@import url(line-icons.css);
+@import url(../../css/line-icons.css);
 /* line 5, ../sass/base/_base.scss */
 body {
   color: #797979;
@@ -4057,7 +4057,7 @@ ul.sidebar-menu li.active a i {
 
 /* .social-box
 =================================================================== */
-/* line 3, ../sass/module/_social.scss */
+/* line 4, ../sass/module/_social.scss */
 .social-box {
   min-height: 158px;
   background: white;
@@ -4065,7 +4065,7 @@ ul.sidebar-menu li.active a i {
   text-align: center;
 }
 
-/* line 9, ../sass/module/_social.scss */
+/* line 10, ../sass/module/_social.scss */
 .social-box i {
   display: block;
   font-size: 40px;
@@ -4073,31 +4073,31 @@ ul.sidebar-menu li.active a i {
   background: #f5f5f5;
 }
 
-/* line 15, ../sass/module/_social.scss */
+/* line 16, ../sass/module/_social.scss */
 .social-box ul {
   list-style: none;
   padding: 10px 0;
 }
 
-/* line 19, ../sass/module/_social.scss */
+/* line 20, ../sass/module/_social.scss */
 .social-box ul li {
   display: block;
   width: 50%;
   float: left;
 }
 
-/* line 24, ../sass/module/_social.scss */
+/* line 25, ../sass/module/_social.scss */
 .social-box ul li:first-child {
   border-right: 1px solid #f5f5f5;
 }
 
-/* line 27, ../sass/module/_social.scss */
+/* line 28, ../sass/module/_social.scss */
 .social-box ul li strong {
   display: block;
   font-size: 20px;
 }
 
-/* line 31, ../sass/module/_social.scss */
+/* line 32, ../sass/module/_social.scss */
 .social-box ul li span {
   color: #d4d4d4;
   font-weight: 500;
@@ -4105,28 +4105,28 @@ ul.sidebar-menu li.active a i {
   font-size: 10px;
 }
 
-/* line 37, ../sass/module/_social.scss */
+/* line 38, ../sass/module/_social.scss */
 .social-box.facebook i {
   background: #3b5998;
   color: white;
   margin: -1px -1px 1px -1px;
 }
 
-/* line 42, ../sass/module/_social.scss */
+/* line 43, ../sass/module/_social.scss */
 .social-box.twitter i {
   background: #00aced;
   color: white;
   margin: -1px -1px 1px -1px;
 }
 
-/* line 47, ../sass/module/_social.scss */
+/* line 48, ../sass/module/_social.scss */
 .social-box.linkedin i {
   background: #4875b4;
   color: white;
   margin: -1px -1px 1px -1px;
 }
 
-/* line 52, ../sass/module/_social.scss */
+/* line 53, ../sass/module/_social.scss */
 .social-box.google-plus i {
   background: #d34836;
   color: white;

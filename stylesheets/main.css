@@ -4132,3 +4132,8 @@ ul.sidebar-menu li.active a i {
   color: white;
   margin: -1px -1px 1px -1px;
 }
+
+/* line 1, ../sass/module/_table.scss */
+.table {
+  font-size: 16px;
+}

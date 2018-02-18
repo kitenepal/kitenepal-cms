@@ -3531,7 +3531,7 @@ div[data-role="editor-toolbar"] {
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
   border-radius: 0px;
-  height: 34px;
+  height: auto;
   position: relative;
   margin: 0 0 19px 0;
   overflow: hidden;
@@ -4136,4 +4136,15 @@ ul.sidebar-menu li.active a i {
 /* line 1, ../sass/module/_table.scss */
 .table {
   font-size: 16px;
+}
+
+/* line 1, ../sass/module/_form.scss */
+.form-wrapper {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+/* line 5, ../sass/module/_form.scss */
+.form-wrapper label {
+  font-size: 18px;
 }

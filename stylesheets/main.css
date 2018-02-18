@@ -4150,6 +4150,11 @@ ul.sidebar-menu li.active a i {
 }
 
 /* line 1, ../sass/module/_mutlimedia.scss */
+.showlist {
+  display: none;
+}
+
+/* line 5, ../sass/module/_mutlimedia.scss */
 .file {
   visibility: hidden;
   position: absolute;
@@ -4158,26 +4163,26 @@ ul.sidebar-menu li.active a i {
 /*
  * Styles for demo only
  */
-/* line 11, ../sass/module/_mutlimedia.scss */
+/* line 15, ../sass/module/_mutlimedia.scss */
 .container {
   background-color: #fff;
   padding: 20px 20px;
   border-radius: 0px;
 }
 
-/* line 16, ../sass/module/_mutlimedia.scss */
+/* line 20, ../sass/module/_mutlimedia.scss */
 .btn.btn-primary {
   background-color: #36424A;
   border-color: #36424A;
   outline: none;
 }
 
-/* line 22, ../sass/module/_mutlimedia.scss */
+/* line 26, ../sass/module/_mutlimedia.scss */
 .glyphicon {
   margin-right: 5px;
 }
 
-/* line 23, ../sass/module/_mutlimedia.scss */
+/* line 27, ../sass/module/_mutlimedia.scss */
 .thumbnail {
   margin-bottom: 20px;
   padding: 0px;
@@ -4186,7 +4191,7 @@ ul.sidebar-menu li.active a i {
   border-radius: 0px !important;
 }
 
-/* line 32, ../sass/module/_mutlimedia.scss */
+/* line 36, ../sass/module/_mutlimedia.scss */
 .item.list-group-item {
   float: none;
   width: 100%;
@@ -4194,43 +4199,43 @@ ul.sidebar-menu li.active a i {
   margin-bottom: 10px;
 }
 
-/* line 40, ../sass/module/_mutlimedia.scss */
+/* line 44, ../sass/module/_mutlimedia.scss */
 .item.list-group-item .list-group-image {
   margin-right: 10px;
 }
 
-/* line 44, ../sass/module/_mutlimedia.scss */
+/* line 48, ../sass/module/_mutlimedia.scss */
 .item.list-group-item .thumbnail {
   margin-bottom: 0px;
 }
 
-/* line 48, ../sass/module/_mutlimedia.scss */
+/* line 52, ../sass/module/_mutlimedia.scss */
 .item.list-group-item .caption {
   padding: 9px 9px 0px 9px;
 }
 
-/* line 52, ../sass/module/_mutlimedia.scss */
+/* line 56, ../sass/module/_mutlimedia.scss */
 .item.list-group-item:nth-of-type(odd) {
   background: #eeeeee;
 }
 
-/* line 57, ../sass/module/_mutlimedia.scss */
+/* line 61, ../sass/module/_mutlimedia.scss */
 .item.list-group-item:before, .item.list-group-item:after {
   display: table;
   content: " ";
 }
 
-/* line 63, ../sass/module/_mutlimedia.scss */
+/* line 67, ../sass/module/_mutlimedia.scss */
 .item.list-group-item img {
   float: left;
 }
 
-/* line 67, ../sass/module/_mutlimedia.scss */
+/* line 71, ../sass/module/_mutlimedia.scss */
 .item.list-group-item:after {
   clear: both;
 }
 
-/* line 71, ../sass/module/_mutlimedia.scss */
+/* line 75, ../sass/module/_mutlimedia.scss */
 .list-group-item-text {
   margin: 0 0 11px;
 }
